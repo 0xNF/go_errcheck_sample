@@ -1,0 +1,2 @@
+# go_errcheck_sample
+errcheckというcliアプリの展覧
